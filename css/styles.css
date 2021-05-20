@@ -4,7 +4,7 @@ body {
 /* header styling */
 header {
   background-color: #444;
-  height 100px;
+  height: 100px;
 }
 nav, main {
   width: 960px;
@@ -14,7 +14,7 @@ header img {
   margin-top: 15px;
   float: left;
 }
-leader li {
+header li {
   display: inline-block;
   line-height: 100px;
   margin-left: 90px;
